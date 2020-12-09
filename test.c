@@ -2,5 +2,4 @@
 int main()
 {
 	printf("ttt");
-printf("ttt");
 }
